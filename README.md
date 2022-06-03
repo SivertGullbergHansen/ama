@@ -26,10 +26,4 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
  - [Read more AMAs.](https://github.com/sindresorhus/amas)
  - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
-### :scroll: License ? [![GitHub license](https://img.shields.io/github/license/SivertGullbergHansen/ama.svg)](https://github.com/SivertGullbergHansen/ama/blob/master/LICENSE)
-This (small) repository is published under the terms of the [MIT license](http://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
-© [Lilian Besson](https://GitHub.com/SivertGullbergHansen), 2016-17.
-
-[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/SivertGullbergHansen/ama/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/SivertGullbergHansen/ama)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/SivertGullbergHansen/ama/README.md?pixel)](https://GitHub.com/SivertGullbergHansen/ama/)
